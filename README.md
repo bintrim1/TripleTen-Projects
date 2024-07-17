@@ -5,17 +5,25 @@ Global repository of all my projects completed at TripleTen
 This project focuses on a thorough analysis of data from the entertainment industry. It focuses on the "Golden Age" of television, which began in 1999, with the release of The Sopranos. The aim of this project is to investigate how the number of votes a title receives impacts its ratings. The assumption is that highly-rated shows released during the "Golden Age" of television also have the most votes. 
 
 **Skills Demonstrated**\
-Python | Data Analytics | Data Manipulation | Data Preprocessing | Data Analysis
+Python | Data Analytics | Data Manipulation | Data Preprocessing | Exploratory Data Analysis
 
 ## 2. [Instacart Data Analysis](https://github.com/bintrim1/instacart_data_analysis)
 This project is an analysis of data provided from Instacart. It contains multiple tables for orders, products, aisles and departments. The goal of this project is to develop a report that gives insight into the shopping behavior of Instacart customers.
 
 **Skills Demonstrated**\
-Python | Data Analytics | Data Manipulation | Data Preprocessing | Data Analysis | Data Vizualization
+Python | Data Analytics | Data Manipulation | Data Preprocessing | Exploratory Data Analysis | Data Vizualization
 
 ## 3. [Telecom Hypothesis Testing](https://github.com/bintrim1/telecom-hypothesis-testing)
+In this project, I simulate being an analyst for a telecom company. They offer two plans to their customers, and the commercial department wants to know which plan brings in the most revenue, to appropriately adjust the advertising budget. The goal is to analyze the customers' behavior and usage, to determine which plan brings in more revenue. 
+
+**Skills Demonstrated**
+Python | Data Analytics | Data Manipulation | Data Preprocessing | Exploratory Data Analysis | Data Visualization | Data-Driven Decision Making
 
 ## 4. [Used Car Data Dashboard](https://github.com/bintrim1/UsedCarDataDashboard)
+This project explores creating an interactive dashboard using the Streamlit library in Python to gather insights of a dataset of used cars. Exploratory data analysis was performed in an accompanying Jupyter Notebook, along with a python file for building the dashboard, which is hosted on Render. 
+
+**Skills Demonstrated**
+Python | Data Analytics | Data Manipulation | Data Preprocessing | Exploratory Data Analysis | Data Visualization | Deploying Applications | Data Dashboards
 
 ## 5. [Video Game Analysis](https://github.com/bintrim1/video-game-analysis)
 
