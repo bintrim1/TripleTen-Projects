@@ -55,7 +55,8 @@ Python | Data Analytics | Data Manipulation | Data Proprocessing | Exploratory D
 In this project, we are tasked by the OilyGiant mining company to find the best region to expand to place new oil wells. The goal of the project is to use machine learning to analyze proprietary data from OilyGiant on their regions they are considering expanding into, predict profit and risk, and recommend a region to expand. 
 
 **Skills Demonstrated**
-Python | Data Analytics | Data Manipulation | Data Proprocessing | Exploratory Data Analysis | Data Visualization | Machine Learning | scikit-learn | Profit Analysis | Risk Analysis | Data-Driven Decision Making
+Python | Data Analytics | Data Manipulation | Data Proprocessing | Exploratory Data Analysis | Data Visualiz
+ation | Machine Learning | scikit-learn | Profit Analysis | Risk Analysis | Data-Driven Decision Making
 
 ## 10. [Gold Recovery](https://github.com/bintrim1/gold-recovery)
 I am working for a company called Zyfra, who develops efficiency solutions for heavy industry. I am provided a dataset of a gold recovery operation, and the goal is to build a machine learning model to predict the amount of gold that will be recovered from raw gold ore. 
@@ -64,13 +65,37 @@ I am working for a company called Zyfra, who develops efficiency solutions for h
 Python | Data Analytics | Data Manipulation | Data Proprocessing | Exploratory Data Analysis | Data Visualization | Machine Learning | scikit-learn | Hypothesis Testing
 
 ## 11. [Insurance Forecast](https://github.com/bintrim1/insurance-forecast)
+The Sure Tomorrow insurance company wants to solve several tasks with the help of Machine Learning and I have been asked to evaluate that possibility. 
+
+**Skills Demonstrated**
+Python | Data Analytics | Data Manipulation | Data Proprocessing | Exploratory Data Analysis | Data Visualization | Machine Learning | scikit-learn | Linear Algebra | Nearest Neighbors | Data Obfuscation
 
 ## 12. [Used Car Pricing](https://github.com/bintrim1/used-car-pricing)
+In this project, I am tasked with developing the machine learning model behind an application that will set a price for a used car. The goal is to develop a model that focuses on the quality of prediction, the speed of the prediction and the time required for training. 
+
+**Skills Demonstrated**
+Python | Data Analytics | Data Manipulation | Data Proprocessing | Exploratory Data Analysis | Data Visualization | Machine Learning | scikit-learn | Gradient Boosting | LightGBM | CatBoost | XGBoost 
 
 ## 13. [Taxi Order Forecast](https://github.com/bintrim1/taxi-order-forecast)
+Sweet Lift Taxi company has collected historical data on taxi orders at airports. To attract more drivers during peak hours, I need to predict the amount of taxi orders for the next hour. The goal is to build a model for such a prediction, with an RMSE metric on the test set being 48 or below.
+
+**Skills Demonstrated**
+Python | Data Analytics | Data Manipulation | Data Proprocessing | Exploratory Data Analysis | Data Visualization | Machine Learning | scikit-learn | Time Series | ARIMA
 
 ## 14. [Review Sentiment Analysis](https://github.com/bintrim1/review-sentiment-analysis)
+The Film Junky Union, a new edgy community for classic movie enthusiasts, is developing a system for filtering and categorizing movie reviews. The goal is to train a model to automatically detect negative reviews, with an F1 score of at least 0.85.
+
+**Skills Demonstrated**
+Python | Data Analytics | Data Manipulation | Data Proprocessing | Exploratory Data Analysis | Data Visualization | Machine Learning | scikit-learn | NLP | Text Normalization | Text Tokenization | Text Lemmatization | NLTK | TF-IDF | spaCy | LightGBM
 
 ## 15. [Photo Age Prediction](https://github.com/bintrim1/photo-age-prediction)
+The supermarket chain Good Seed would like to explore whether Data Science can help them adhere to alcohol laws by making sure they do not sell alcohol to people underage. The goal is to build a computer vision model to determine the age of shoppers by their photo.
+
+**Skills Demonstrated**
+Python | Data Analytics | Data Manipulation | Data Proprocessing | Exploratory Data Analysis | Data Visualization | Machine Learning | scikit-learn | Computer Vision | TensorFlow
 
 ## 16. [Churn Prevention - Final Project](https://github.com/bintrim1/churn-prevention)
+The telecom operator Interconnect would like to be able to forecast their churn of clients. If it's discovered that a user is planning to leave, they will be offered promotional codes and special plan options. The goal of the project is to accurately predict whether a customer will churn or not. The primary metric is AUC-ROC, and the highest project score will be awarded with an AUC-ROC  $\ge$ 0.88.
+
+**Skills Demonstrated**
+Python | Data Analytics | Data Manipulation | Data Proprocessing | Exploratory Data Analysis | Data Visualization | Machine Learning | scikit-learn | Gradient Boosting | LightGBM | CatBoost | XGBoost | Data-Driven Decision Making
